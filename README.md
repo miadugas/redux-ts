@@ -7,4 +7,5 @@ Redux Thunk: 2.3.0
 Axios: 0.21.1
 TypeScript: 4.1.3
 TypeScript/React-Redux: 7.1.5
-# redux-ts
+
+# My standard template used for Redux & TypeScript
